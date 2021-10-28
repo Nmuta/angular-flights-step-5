@@ -16,7 +16,7 @@ export class FlightService {
       {origin: "Denver", destination: "Miami", flightNumber: 5, 
       depart: new Date(), arrive: new Date(), nonstop: true},
       {origin: "Phoenix", destination: "NYC", flightNumber: 5, 
-      depart: new Date(), arrive: new Date(), nonstop: true, snacks: "crackers"},
+      depart: new Date(), arrive: new Date(), nonstop: true, snacks: "samosas"},
     ];
 
     return data;
